@@ -9,9 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet var tableView: UITableView!
+    @IBOutlet weak var tableView: UITableView!
     
-    var items = [String]()
+    var items: [String] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
