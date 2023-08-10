@@ -1,6 +1,6 @@
 # NotEkle
 
-Kendin için bir görev belirle ve istediğin zaman görevi kaldır.
+Görev belirle, tamamla ve görevi kaldır.
 
 - UserDefaults
 - UIAlertController
